@@ -1,0 +1,100 @@
+1.	abbreviation — аббревиатура 
+2.	algorithm — алгоритм
+3.	application – приложение
+4.	assignment — присвоение
+5.	available — доступный 
+6.	backup – выполнять резервное копирование
+7.	board — плата
+8.	brackets – квадратные скобки
+9.	bug – ошибка
+10.	button - кнопка
+11.	circuit - схема
+12.	closure — замыкание
+13.	cluster — кластер
+14.	compatibility – совместимость 
+15.	compiler – компилятор
+16.	compress – сжимать
+17.	computing — вычисление
+18.	conditional – условное выражение
+19.	crash – падать (из-за ошибки)
+20.	customization — настройка
+21.	database — база данных
+22.	database administrator – администратор баз данных
+23.	debug – отлаживать
+24.	debugger — отладчик (программа для отладки кода)
+25.	demand — спрос 
+26.	develop — разрабатывать
+27.	disconnect – отключать
+28.	disk drive - дисковод
+29.	diskette — дискета
+30.	distributed system — распределенная система
+31.	drawback — недостаток
+32.	enable – включать
+33.	exception – исключение
+34.	execute – выполнить
+35.	extend – расширить 
+36.	fault-tolerant — отказоустойчивость
+37.	feature – особенность 
+38.	feedback – отзыв
+39.	fix – исправить (ошибку)
+40.	float – число с плавающей точкой
+41.	folder — папка (на компьютере)
+42.	font – шрифт 
+43.	glitch – ошибка в программе
+44.	graphic designer – графический дизайнер
+45.	guide - справочник
+46.	hard drive – жёсткий диск
+47.	hardware – компьютерное «железо»
+48.	heat sink - радиатор
+49.	hotfix – быстрое исправление ошибки
+50.	IDE (Integrated Development Environment) — интегрированная среда разработки
+51.	inch – дюйм
+52.	integer – целое число
+53.	LAN (Local Area Network) — локальная вычислительная сеть
+54.	legacy – старый код
+55.	links bar — панель ссылок
+56.	list – список
+57.	localhost — локальное имя домена
+58.	loop — цикл
+59.	low-level language — язык низкого уровня
+60.	monitor — осуществлять мониторинг
+61.	MVP (Minimal Valuable Product) - программа с минимальным набором функциональности
+62.	network architect – сетевой архитектор
+63.	order — заказывать 
+64.	overheat - перегрев
+65.	oversee — курировать 
+66.	package — пакет (библиотека)
+67.	parenthesis – круглые скобки
+68.	pattern – шаблон 
+69.	performance — производительность
+70.	plug in – подключать
+71.	pointer – указатель 
+72.	processing — обработка
+73.	promote — продвигать 
+74.	property – свойство
+75.	prospect — перспектива 
+76.	query – запрос
+77.	quorum — кворум
+78.	rapid — стремительный 
+79.	recursion – рекурсивная функция
+80.	replica — точная копия
+81.	repository – репозиторий 
+82.	resolution – разрешение (экрана)
+83.	signature — подпись
+84.	simultaneous — одновременный 
+85.	socket - разъём 
+86.	software — программное обеспечение
+87.	solution – решение 
+88.	solve — решать
+89.	specifications — спецификация (детальное описание продукта)
+90.	spreadsheet – электронная таблица
+91.	statement — оператор
+92.	suitable — подходящий 
+93.	system analyst – системный аналитик
+94.	task — задача 
+95.	test suit – набор тестов
+96.	tool — инструмент 
+97.	transfer — переводить (деньги)
+98.	variable — переменная
+99.	verify – проверять
+100.	wireless – беспроводной 
